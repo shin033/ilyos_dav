@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ilyosbek davronov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilyosbek davronov" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/okabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="okabi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ilyosbek-davronov-412961277/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ilyosbek-davronov-412961277/" height="30" width="40" /></a>
+<a href="https://leetcode.com/okabi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/okabi/" height="30" width="40" /></a>
 <a href="https://discord.gg/puzzle#4979" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="puzzle#4979" height="30" width="40" /></a>
 </p>
 

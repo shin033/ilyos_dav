@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on web development<br>💾 Interested in programming in Python (bots, server side of sites(backend), etc.)<br>🌱 I am actively work with Python<br>✍️ Actively learning Cybersecurity/CS/Devops/Docker Technologies<br>📬 You can find me by email shin.moore@proton.me
+🔭 I’m currently working on web development<br>💾 Interested in programming in Python (bots, server side of sites(backend), etc.)<br>🌱 I  actively work with Python<br>✍️ Actively learning Cybersecurity/CS/Devops/Docker Technologies<br>📬 You can find me by email shin.moore@proton.me
 
 
 ## 🌐 Socials:
